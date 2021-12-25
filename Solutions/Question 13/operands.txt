@@ -1,0 +1,8 @@
+EXPRESSION 1
++ - / * 
+Count of operands: 4
+
+EXPRESSION 2
+/ * + 
+Count of operands: 3
+
